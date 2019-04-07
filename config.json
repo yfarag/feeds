@@ -3,7 +3,7 @@
    {"screenId":1,"screenTitleKey":"voc_screen_home","feedUrl":"https://www.google.com"}
   ],
   "appInfo": {},
-  "globalConfigs": [],
+  "globalConfigs":{},
   "vocs": [
     {"voc_screen_home":"الرئيسية"}
     ]
