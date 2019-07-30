@@ -1,1 +1,1 @@
-{"version":0.1,"screens":[{"screenId":1,"screenTitleKey":"voc_screen_home","feedUrl":"https://www.google.com"}],"appInfo":{},"globalConfigs":{},"vocs":[{"lang":"ar","dic":[{"key":"voc_screen_home","val":"الرئيسية"}]}]}
+{"TTL":60,"version":0.1,"screens":[{"screenId":1,"screenTitleKey":"voc_screen_home","feedUrl":"https://www.google.com"}],"appInfo":{},"globalConfigs":{},"vocs":[{"lang":"ar","dic":[{"key":"voc_screen_home","val":"الرئيسية"}]}]}
