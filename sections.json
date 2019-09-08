@@ -1,0 +1,296 @@
+{
+  "TTL": 60,
+  "lastUpdate": 12345678,
+  "sections": [
+    {
+      "section": {
+        "sectionId": "1",
+        "sectionName": "عالم",
+        "sectionImageUrl": "https://pbs.twimg.com/profile_images/1019649683684241408/C8qgMbMr_bigger.jpg"
+      },
+      "data": [
+        {
+          "id": "06bb2f11-3305-4149-a336-37678f04ea79",
+          "templateType": 1,
+          "sourceId": "1",
+          "sourceTitle": "صحيفة اليوم السابع",
+          "title": "سوبر كورة.. بعد تعيين مجلس الجنايني.. اعرف تاريخ مجالس إدارات اتحاد الكرة - اليوم السابع",
+          "date": "منذ ساعتين",
+          "imageUrl": "https://img.youm7.com/large/201908210326372637.jpg",
+          "url": "https://www.youm7.com/story/2019/8/21/سوبر-كورة-بعد-تعيين-مجلس-الجنايني-اعرف-تاريخ-مجالس-إدارات/4383443"
+        },
+        {
+          "id": "0a6f3247-80aa-4451-b10e-bbd2a4dea63f",
+          "templateType": 1,
+          "sourceId": "1",
+          "sourceTitle": "صحيفة اليوم السابع",
+          "title": "جمال محمد على: وضع إستراتيجية لإعداد كوادر من المدربين لتأهيلهم للعمل - اليوم السابع",
+          "date": "منذ ساعتين",
+          "imageUrl": "https://img.youm7.com/large/S11200922153943.jpg",
+          "url": "https://www.youm7.com/story/2019/8/21/جمال-محمد-على-وضع-إستراتيجية-لإعداد-كوادر-من-المدربين-لتأهيلهم/4383447"
+        }
+      ]
+    },
+        {
+      "section": {
+        "sectionId": "1",
+        "sectionName": "رياضة",
+        "sectionImageUrl": "https://pbs.twimg.com/profile_images/1019649683684241408/C8qgMbMr_bigger.jpg"
+      },
+      "data": [
+         {
+      "id": "0521d52e-2398-4c80-a7eb-e4f08afdca21",
+      "templateType": 1,
+      "sourceId": "1",
+      "sourceTitle": "صحيفة اليوم السابع",
+      "title": "عضو المقاصة: تعاقدنا مع صفقات قوية ومباراة الزمالك خطوة مهمة للتتويج بالكأس - اليوم السابع",
+      "date": "منذ ساعتين",
+      "imageUrl": "https://img.youm7.com/large/201712101127552755.jpg",
+      "url": "https://www.youm7.com/story/2019/8/21/عضو-المقاصة-تعاقدنا-مع-صفقات-قوية-ومباراة-الزمالك-خطوة-مهمة/4383350"
+    },
+    {
+      "id": "03beadeb-ac4b-4b5f-a657-f31e04405ff2",
+      "templateType": 1,
+      "sourceId": "1",
+      "sourceTitle": "صحيفة اليوم السابع",
+      "title": "سعفان الصغير لـ \"تايم سبورت\" : الحضرى لا يصلح لتدريب حراس الفراعنة  - اليوم السابع",
+      "date": "منذ 3 ساعات",
+      "imageUrl": "https://img.youm7.com/large/201901281121352135.jpg",
+      "url": "https://www.youm7.com/story/2019/8/21/سعفان-الصغير-لـ-تايم-سبورت-الحضرى-لا-يصلح-لتدريب-حراس/4383304"
+    }
+      ]
+    },
+        {
+      "section": {
+        "sectionId": "1",
+        "sectionName": "صحة وجمال",
+        "sectionImageUrl": "https://pbs.twimg.com/profile_images/1019649683684241408/C8qgMbMr_bigger.jpg"
+      },
+      "data": [
+         {
+      "id": "051556c1-ffcb-4e2b-88eb-68a369f3c0a5",
+      "templateType": 1,
+      "sourceId": "1",
+      "sourceTitle": "صحيفة اليوم السابع",
+      "title": "سوبر كورة يكشف قيمة إعارة جناح الأهلى لإنبي وبند حرمانه من مواجهة الأحمر - اليوم السابع",
+      "date": "منذ 4 ساعات",
+      "imageUrl": "https://img.youm7.com/large/201810100541444144.jpg",
+      "url": "https://www.youm7.com/story/2019/8/21/سوبر-كورة-يكشف-قيمة-إعارة-جناح-الأهلى-لإنبي-وبند-حرمانه/4383125"
+    },
+    {
+      "id": "096efc2d-cb42-435e-8158-2a00e4bf653b",
+      "templateType": 1,
+      "sourceId": "1",
+      "sourceTitle": "صحيفة اليوم السابع",
+      "title": "مصر تتصدر ترتيب دورة ألعاب أفريقيا بـ9 ميداليات - اليوم السابع",
+      "date": "2019-08-20 21:41",
+      "imageUrl": "https://img.youm7.com/large/20190815041109119.jpg",
+      "url": "https://www.youm7.com/story/2019/8/20/مصر-تتصدر-ترتيب-دورة-ألعاب-أفريقيا-بـ9-ميداليات/4382573"
+    }
+      ]
+    },
+        {
+      "section": {
+        "sectionId": "1",
+        "sectionName": "حواء",
+        "sectionImageUrl": "https://pbs.twimg.com/profile_images/1019649683684241408/C8qgMbMr_bigger.jpg"
+      },
+      "data": [
+        {
+      "id": "01a06b62-46ed-406d-9fec-6dcd887551db",
+      "templateType": 1,
+      "sourceId": "1",
+      "sourceTitle": "صحيفة اليوم السابع",
+      "title": "بالأرقام.. إحصائيات هدافى ناشئى اليد وحراس المرمى فى المونديال - اليوم السابع",
+      "date": "2019-08-19 14:54",
+      "imageUrl": "https://img.youm7.com/large/201908181048374837.jpg",
+      "url": "https://www.youm7.com/story/2019/8/19/بالأرقام-إحصائيات-هدافى-ناشئى-اليد-وحراس-المرمى-فى-المونديال/4380362"
+    },
+    {
+      "id": "05d7be78-fe30-4579-b8d1-153aa8f32b5f",
+      "templateType": 1,
+      "sourceId": "1",
+      "sourceTitle": "صحيفة اليوم السابع",
+      "title": "المقاولون يترقب آخر صفقتين لإعلان قائمة الموسم الجديد - اليوم السابع",
+      "date": "2019-08-19 12:25",
+      "imageUrl": "https://img.youm7.com/large/22016221652587911.jpg",
+      "url": "https://www.youm7.com/story/2019/8/19/المقاولون-يترقب-آخر-صفقتين-لإعلان-قائمة-الموسم-الجديد/4380194"
+    }
+      ]
+    },
+        {
+      "section": {
+        "sectionId": "1",
+        "sectionName": "اقتصاد",
+        "sectionImageUrl": "https://pbs.twimg.com/profile_images/1019649683684241408/C8qgMbMr_bigger.jpg"
+      },
+      "data": [
+        {
+      "id": "04303309-6303-4d0f-9397-5ce0aec202bd",
+      "templateType": 1,
+      "sourceId": "1",
+      "sourceTitle": "صحيفة اليوم السابع",
+      "title": "5 أرقام لا تفوتك من إنجاز ناشئى اليد فى مشوار التتويج بلقب المونديال - اليوم السابع",
+      "date": "2019-08-19 10:40",
+      "imageUrl": "https://img.youm7.com/large/201908181048374837.jpg",
+      "url": "https://www.youm7.com/story/2019/8/19/5-أرقام-لا-تفوتك-من-إنجاز-ناشئى-اليد-فى-مشوار/4380080"
+    },
+    {
+      "id": "01e82fa8-a3dd-494a-9786-3949c9f898c3",
+      "templateType": 1,
+      "sourceId": "1",
+      "sourceTitle": "صحيفة اليوم السابع",
+      "title": "الغندور: إقالة لاسارتى من تدريب الأهلى ومحمد يوسف مدير فنى مؤقت - اليوم السابع",
+      "date": "2019-08-18 02:22",
+      "imageUrl": "https://img.youm7.com/large/201908110840494049.jpg",
+      "url": "https://www.youm7.com/story/2019/8/18/الغندور-إقالة-لاسارتى-من-تدريب-الأهلى-ومحمد-يوسف-مدير-فنى/4378608"
+    }
+      ]
+    },
+        {
+      "section": {
+        "sectionId": "1",
+        "sectionName": "سيارات",
+        "sectionImageUrl": "https://pbs.twimg.com/profile_images/1019649683684241408/C8qgMbMr_bigger.jpg"
+      },
+      "data": [
+        {
+      "id": "0102318b-7cff-4927-b8e6-c2f09b3a2646",
+      "templateType": 1,
+      "sourceId": "1",
+      "sourceTitle": "صحيفة اليوم السابع",
+      "title": "إنبى يواجه بنى سويف اليوم استعدادا لبطولة الدورى - اليوم السابع",
+      "date": "2019-08-18 01:30",
+      "imageUrl": "https://img.youm7.com/large/201902170730393039.jpg",
+      "url": "https://www.youm7.com/story/2019/8/18/إنبى-يواجه-بنى-سويف-اليوم-استعدادا-لبطولة-الدورى/4378557"
+    },
+    {
+      "id": "072b2df0-9dfb-416c-ac56-7aee12df81b8",
+      "templateType": 1,
+      "sourceId": "1",
+      "sourceTitle": "صحيفة اليوم السابع",
+      "title": "الأهلي يطلب تقرير من جهاز الكرة عن سبب مد إجازة زواج مروان محسن - اليوم السابع",
+      "date": "2019-08-17 23:14",
+      "imageUrl": "https://img.youm7.com/large/201903040929322932.jpg",
+      "url": "https://www.youm7.com/story/2019/8/17/الأهلي-يطلب-تقرير-من-جهاز-الكرة-عن-سبب-مد-إجازة/4378556"
+    }
+      ]
+    },
+        {
+      "section": {
+        "sectionId": "1",
+        "sectionName": "حوادث",
+        "sectionImageUrl": "https://pbs.twimg.com/profile_images/1019649683684241408/C8qgMbMr_bigger.jpg"
+      },
+      "data": [
+        {
+      "id": "0b64de45-7f5b-4fb2-962e-498ed9e47678",
+      "templateType": 1,
+      "sourceId": "10",
+      "sourceTitle": "موقع كوووره",
+      "title": "بونوتشي: دي ليخت أفضل مدافع شاب في العالم",
+      "date": "2019-07-21 07:00",
+      "imageUrl": "https://img.kooora.com/?i=epa%2fsoccer%2f2019-04%2f2019-04-15%2f2019-04-15-07508544_epa.jpg",
+      "url": "https://www.kooora.com/?n=833508&pg=1&o=n"
+    },
+    {
+      "id": "03b8aa0e-5402-4572-8756-a5bd19abdfe3",
+      "templateType": 1,
+      "sourceId": "1",
+      "sourceTitle": "صحيفة اليوم السابع",
+      "title": "الاهلي يواصل الاستعداد لمباراة المقاولون العرب - اليوم السابع",
+      "date": "2019-07-21 04:00",
+      "imageUrl": "https://img.youm7.com/large/20180810032800280.jpg",
+      "url": "https://www.youm7.com/story/2019/7/21/الاهلي-يواصل-الاستعداد-لمباراة-المقاولون-العرب/4341451"
+    }
+      ]
+    },
+        {
+      "section": {
+        "sectionId": "1",
+        "sectionName": "تكنولوجيا",
+        "sectionImageUrl": "https://pbs.twimg.com/profile_images/1019649683684241408/C8qgMbMr_bigger.jpg"
+      },
+      "data": [
+        {
+      "id": "023ced48-508d-4f3f-9aa7-c6e113849ae1",
+      "templateType": 1,
+      "sourceId": "1",
+      "sourceTitle": "صحيفة اليوم السابع",
+      "title": "محمود كهربا يُقسم: لم أوقع للأهلى ولم أكن يوما خائنا.. ولن أعتذر - اليوم السابع",
+      "date": "2019-07-21 02:45",
+      "imageUrl": "https://img.youm7.com/large/201812280837413741.jpg",
+      "url": "https://www.youm7.com/story/2019/7/21/محمود-كهربا-يُقسم-لم-أوقع-للأهلى-ولم-أكن-يوما-خائنا/4342331"
+    },
+    {
+      "id": "072b085c-d02c-45b7-bd00-acdd54dd0605",
+      "templateType": 1,
+      "sourceId": "5",
+      "sourceTitle": "في الجول",
+      "title": "عودة الحياة للدوري المصري بمواجهة مرتقبة بين الجونة والزمالك",
+      "date": "2019-07-20 21:55",
+      "imageUrl": "http://media.filgoal.com/news/verylarge/211644_0.jpg",
+      "url": "https://www.filgoal.com/articles/368450/عودة-الحياة-للدوري-المصري-بمواجهة-مرتقبة-بين-الجونة-والزمالك"
+    }
+      ]
+    },
+        {
+      "section": {
+        "sectionId": "1",
+        "sectionName": "فن",
+        "sectionImageUrl": "https://pbs.twimg.com/profile_images/1019649683684241408/C8qgMbMr_bigger.jpg"
+      },
+      "data": [
+        {
+      "id": "0570cd0e-ef1e-4838-bc66-4b6b137807e1",
+      "templateType": 1,
+      "sourceId": "1",
+      "sourceTitle": "صحيفة اليوم السابع",
+      "title": "اتحاد الكرة يرفض وضع حد أعلى وأدنى لعقود اللاعبين - اليوم السابع",
+      "date": "2019-07-14 00:00",
+      "imageUrl": "https://img.youm7.com/large/201710260514361436.jpg",
+      "url": "https://www.youm7.com/story/2019/7/14/اتحاد-الكرة-يرفض-وضع-حد-أعلى-وأدنى-لعقود-اللاعبين/4332293"
+    },
+    {
+      "id": "04a9cb96-298d-44ff-a0b1-f1240afb3dc5",
+      "templateType": 1,
+      "sourceId": "10",
+      "sourceTitle": "موقع كوووره",
+      "title": "تشافي يؤجل انطلاق فترة إعداد السد",
+      "date": "2019-07-01 12:31",
+      "imageUrl": "https://img.kooora.com/?i=reuters%2f2015-06-03%2f2015-06-03t173546z_236887890_gf10000116256_rtrmadp_3_soccer-spain_reuters.jpg",
+      "url": "https://www.kooora.com/?n=828098&pg=1&o=n"
+    }
+      ]
+    },
+        {
+      "section": {
+        "sectionId": "1",
+        "sectionName": "معرفة",
+        "sectionImageUrl": "https://pbs.twimg.com/profile_images/1019649683684241408/C8qgMbMr_bigger.jpg"
+      },
+      "data": [
+        {
+      "id": "0a2a4a59-f6f4-4e76-923a-7f09467c6b33",
+      "templateType": 1,
+      "sourceId": "10",
+      "sourceTitle": "موقع كوووره",
+      "title": "كاسياس ينضم لمعسكر إعداد بورتو",
+      "date": "2019-07-01 12:27",
+      "imageUrl": "https://img.kooora.com/?i=epa%2fsoccer%2f2019-04%2f2019-04-16%2f2019-04-16-07510622_epa.jpg",
+      "url": "https://www.kooora.com/?n=828100&pg=1&o=n"
+    },
+    {
+      "id": "094beec8-6e4a-410d-a19e-eb48bf7a2088",
+      "templateType": 1,
+      "sourceId": "1",
+      "sourceTitle": "صحيفة اليوم السابع",
+      "title": "نيدفيد يعود من ألمانيا والأهلي يعلن تحسن حالته  - اليوم السابع",
+      "date": "2019-07-01 12:08",
+      "imageUrl": "https://img.youm7.com/large/201812050947544754.jpg",
+      "url": "https://www.youm7.com/story/2019/7/1/نيدفيد-يعود-من-ألمانيا-والأهلي-يعلن-تحسن-حالته/4313064"
+    }
+      ]
+    }
+  ]
+}
