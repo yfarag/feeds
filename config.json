@@ -26,7 +26,7 @@
   "globalConfigs": [
     {
       "key": "newsDetailsUrl",
-      "val": "http://192.168.1.166:5000/news/{id}"
+      "val": "http://192.168.1.166:5000/news/"
     },
     {
       "key": "sourceProfileUrl",
