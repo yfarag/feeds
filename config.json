@@ -6,7 +6,7 @@
     {
       "screenId": 1,
       "screenTitleKey": "voc_screen_home",
-      "feedUrl": "http://192.168.1.166:5000/news/latest",
+      "feedUrl": "/news/latest",
       "pageCount": 20
     },
     {
@@ -26,7 +26,7 @@
   "globalConfigs": [
     {
       "key": "newsDetailsUrl",
-      "val": "http://192.168.1.166:5000/news/"
+      "val": "/news/"
     },
     {
       "key": "sourceProfileUrl",
@@ -35,6 +35,10 @@
     {
       "key": "sectionLatestNews",
       "val": "https://yfarag.github.io/feeds/sections/1.json"
+    },
+    {
+      "key": "apiBaseUrl",
+      "val": "http://192.168.1.166:5000"
     }
   ],
   "vocs": [
