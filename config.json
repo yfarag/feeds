@@ -6,7 +6,7 @@
     {
       "screenId": 1,
       "screenTitleKey": "voc_screen_home",
-      "feedUrl": "/news/latest",
+      "feedUrl": "/news/latest/",
       "pageCount": 20
     },
     {
