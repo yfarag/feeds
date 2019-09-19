@@ -1,6 +1,6 @@
 {
   "TTL": 60,
-  "lastUpdate": 123591129,
+  "lastUpdate": 123591139,
   "version": 0.1,
   "screens": [
     {
@@ -38,7 +38,7 @@
     },
     {
       "key": "apiBaseUrl",
-      "val": "192.168.1.166:5000"
+      "val": "https://192.168.1.166:5000"
     }
   ],
   "vocs": [
