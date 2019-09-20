@@ -34,7 +34,7 @@
     },
     {
       "key": "sectionLatestNews",
-      "val": "https://yfarag.github.io/feeds/sections/1.json"
+      "val": "/section/latest/"
     },
     {
       "key": "apiBaseUrl",
