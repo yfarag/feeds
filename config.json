@@ -1,6 +1,6 @@
 {
   "TTL": 60,
-  "lastUpdate": 123591199,
+  "lastUpdate": 123591299,
   "version": 0.1,
   "screens": [
     {
@@ -43,6 +43,10 @@
     {
       "key": "apiBaseUrl",
       "val": "http://169.254.132.141:5000"
+    },
+    {
+      "key": "fetchNewsUpdates",
+      "val": "/news/fetch/"
     }
   ],
   "vocs": [
