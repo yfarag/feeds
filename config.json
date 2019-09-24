@@ -1,6 +1,6 @@
 {
   "TTL": 60,
-  "lastUpdate": 123591399,
+  "lastUpdate": 123591499,
   "version": 0.1,
   "screens": [
     {
@@ -38,7 +38,7 @@
     },
     {
       "key": "sections",
-      "val": "/section"
+      "val": "/sections"
     },
     {
       "key": "apiBaseUrl",
