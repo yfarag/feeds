@@ -30,7 +30,7 @@
     },
     {
       "key": "sourceProfileUrl",
-      "val": "https://yfarag.github.io/feeds/source/profile/latest.json"
+      "val": "/news/source/latest/"
     },
     {
       "key": "sectionLatestNews",
