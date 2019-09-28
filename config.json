@@ -1,6 +1,6 @@
 {
   "TTL": 60,
-  "lastUpdate": 123591999,
+  "lastUpdate": 123592000,
   "version": 0.1,
   "screens": [
     {
@@ -47,6 +47,10 @@
     {
       "key": "fetchNewsUpdates",
       "val": "/news/fetch/"
+    },
+    {
+      "key": "fetchSectionNewsUpdates",
+      "val": "/news/section/fetch/"
     }
   ],
   "vocs": [
