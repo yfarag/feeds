@@ -1,6 +1,6 @@
 {
   "TTL": 60,
-  "lastUpdate": 123592004,
+  "lastUpdate": 123592005,
   "version": 0.1,
   "screens": [
     {
@@ -51,6 +51,14 @@
     {
       "key": "fetchSectionNewsUpdates",
       "val": "/news/section/fetch/"
+    },
+    {
+      "key": "sectionLogoDir",
+      "val": "/static/assets/section/logos/{x}.png"
+    },
+    {
+      "key": "sectionProfileImageDir",
+      "val": "/static/assets/section/{x}.jpg"
     }
   ],
   "vocs": [
