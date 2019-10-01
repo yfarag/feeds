@@ -1,6 +1,6 @@
 {
   "TTL": 60,
-  "lastUpdate": 123592006,
+  "lastUpdate": 123592007,
   "version": 0.1,
   "screens": [
     {
@@ -54,11 +54,11 @@
     },
     {
       "key": "sectionLogoDir",
-      "val": "/static/assets/section/logos/{x}.png"
+      "val": "/static/assets/sections/logos/{x}.png"
     },
     {
       "key": "sectionProfileImageDir",
-      "val": "/static/assets/section/{x}.jpg"
+      "val": "/static/assets/sections/{x}.jpg"
     }
   ],
   "vocs": [
