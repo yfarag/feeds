@@ -1,6 +1,6 @@
 {
   "TTL": 60,
-  "lastUpdate": 123592005,
+  "lastUpdate": 123592006,
   "version": 0.1,
   "screens": [
     {
@@ -12,7 +12,7 @@
     {
       "screenId": 2,
       "screenTitleKey": "voc_screen_all_sources",
-      "feedUrl": "https://yfarag.github.io/feeds/masader/all.json",
+      "feedUrl": "/sources/all/",
       "pageCount": 200
     },
     {
