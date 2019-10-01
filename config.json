@@ -1,6 +1,6 @@
 {
   "TTL": 60,
-  "lastUpdate": 123592007,
+  "lastUpdate": 123592008,
   "version": 0.1,
   "screens": [
     {
@@ -59,6 +59,10 @@
     {
       "key": "sectionProfileImageDir",
       "val": "/static/assets/sections/{x}.jpg"
+    },
+    {
+      "key": "subscribeSource",
+      "val": "/sources/subscribe/"
     }
   ],
   "vocs": [
