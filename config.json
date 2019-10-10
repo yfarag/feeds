@@ -1,6 +1,6 @@
 {
   "TTL": 60,
-  "lastUpdate": 123592015,
+  "lastUpdate": 123592016,
   "version": 0.1,
   "screens": [
     {
@@ -63,6 +63,10 @@
     {
       "key": "subscribeSource",
       "val": "/sources/subscribe/"
+    },
+    {
+      "key": "assignUserToDevice",
+      "val": "/sources/assign/user/"
     }
   ],
   "vocs": [
