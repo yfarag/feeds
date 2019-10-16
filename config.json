@@ -1,6 +1,6 @@
 {
   "TTL": 60,
-  "lastUpdate": 123592022,
+  "lastUpdate": 123592023,
   "version": 0.1,
   "screens": [
     {
@@ -67,6 +67,10 @@
     {
       "key": "assignUserToDevice",
       "val": "/sources/assign/user/"
+    },
+    {
+      "key": "toggleFavourite",
+      "val": "/user/fav/toggle/"
     }
   ],
   "vocs": [
