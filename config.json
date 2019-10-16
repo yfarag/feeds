@@ -1,6 +1,6 @@
 {
   "TTL": 60,
-  "lastUpdate": 123592023,
+  "lastUpdate": 123592024,
   "version": 0.1,
   "screens": [
     {
@@ -71,6 +71,10 @@
     {
       "key": "toggleFavourite",
       "val": "/user/fav/toggle/"
+    }
+    ,{
+      "key": "syncFavourite",
+      "val": "/user/fav/sync"
     }
   ],
   "vocs": [
