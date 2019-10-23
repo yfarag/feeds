@@ -1,6 +1,6 @@
 {
   "TTL": 60,
-  "lastUpdate": 123592039,
+  "lastUpdate": 123592040,
   "version": 0.1,
   "screens": [
     {
@@ -75,6 +75,10 @@
     ,{
       "key": "syncFavourite",
       "val": "/user/fav/sync"
+    },
+    {
+      "key": "rateCredibility",
+      "val": "/user/credibility/rate/"
     }
   ],
   "vocs": [
