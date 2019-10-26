@@ -1,6 +1,6 @@
 {
   "TTL": 60,
-  "lastUpdate": 123592043,
+  "lastUpdate": 123592044,
   "version": 0.1,
   "screens": [
     {
@@ -78,7 +78,7 @@
     },
     {
       "key": "rateCredibility",
-      "val": "/user/credibility/rate/"
+      "val": "/user/credibility/rate"
     }
   ],
   "vocs": [
